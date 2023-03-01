@@ -1,0 +1,147 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Верхняя зеленая шапка */
+
+.offer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ADC9A6;
+    padding-top: 8px;
+    padding-bottom: 8px;
+
+}
+
+.offer_img {
+    width: 24px;
+    height: 24px;
+    margin-right: 11px;
+}
+
+.header {
+    background-color: #153C3C;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+/*
+.header_logo {
+
+} */
+
+.header_menu {
+display: flex;
+gap: 50px;
+margin-left: 97px;
+align-items: center;
+margin-top: 29px;
+margin-bottom: 29px;
+}
+
+.header_link {
+    font-size: 15px;
+    font-weight: 400;
+    color: #DDE4E4;
+
+}
+
+.header_buy {
+	/* width: auto;
+	height: auto; */
+	margin-left: auto;
+	border-radius: 4px;
+	background-color: #84A17D;
+	font-size: 13px;
+	font-weight: 400;
+	line-height: 24px;
+	color: white;
+	cursor:pointer;
+	text-align: center;
+	padding-top: 7px;
+	padding-left: 24px;
+	padding-right: 24px;
+	padding-bottom: 9px;
+}
+
+.main__content {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
+	margin-top: 100px;
+	margin-bottom: 110px;
+}
+
+.main__label {
+	display: inline-block;
+	padding: 8px 16px;
+	background-color: #F3F7F2;
+}
+
+.main__title {
+	font-size: 62px;
+	max-width: 567px;
+	margin-top: 10px;
+}
+
+/* .frame {
+    display: flex;
+	flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.but1 {
+	border-radius: 4px;
+	background-color: #F3F7F2;
+	font-size: 18px;
+	cursor: auto;
+	font-weight: 400;
+	line-height: 32px;
+	color: #153C3C;
+	padding-left: 16px;
+	padding-right: 16px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+
+.text-h {
+	font-size: 62px;
+	margin-top: 11px;
+	text-align: center;
+}
+
+.text-underline {
+	position: relative;
+}
+
+.text-underline::before {
+	content: '';
+	width: 100%;
+	height: 10px;
+	display: inline-block;
+	background-image: url(../img/Vector.svg);
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+	z-index: -1;
+	bottom: 0;
+}
+
+.center-img {
+    width: 240px;
+}
+
+
+.off-img {
+	max-width: 1280px;
+	height: 560px;
+    margin: 0 auto;
+    margin-top: 109px;
+    border-radius: 12px;
+    overflow: hidden;
+} */
