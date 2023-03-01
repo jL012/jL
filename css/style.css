@@ -63,8 +63,6 @@ margin-bottom: 29px;
 	text-align: center;
 	padding-top: 7px;
 	padding-left: 24px;
-	padding-right: 24px;
-	padding-bottom: 9px;
 }
 
 .main__content {
@@ -73,10 +71,11 @@ margin-bottom: 29px;
 	align-items: center;
 	text-align: center;
 	margin-top: 100px;
-	margin-bottom: 110px;
+	/* margin-bottom: 110px; */
 }
 
 .main__label {
+	display: inline-block;
 	display: inline-block;
 	padding: 8px 16px;
 	background-color: #F3F7F2;
